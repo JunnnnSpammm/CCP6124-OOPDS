@@ -1,0 +1,8 @@
+3
+0 Ali
+1 AhKao
+2 Muthu
+
+0 3 Putrajaya Cyberjaya KL
+1 1 Cyberjaya
+2 0
